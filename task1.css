@@ -1,0 +1,23 @@
+
+ul > li {
+    display: inline;
+    background-color: orange;
+    padding: 3px; 
+    width: 65px;
+}
+
+.content {
+    
+    width: 65px;
+   
+  }
+img {
+    
+  
+    padding: 3px;
+    width: 65px;
+
+
+a:hover , li:hover{
+  color: white;
+}
