@@ -1,23 +1,91 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="" content="">
+  <title>Home work</title>
 
-ul > li {
-    display: inline;
-    background-color: orange;
-    padding: 3px; 
-    width: 65px;
-}
-
-.content {
-    
-    width: 65px;
-   
-  }
-img {
-    
+  <link rel="stylesheet" href="page.css" type="css/text">
   
-    padding: 3px;
-    width: 65px;
+</head>
+<body >
+
+ 
+  <div class="container">
+  
+  <div class="header">
+  <h1> Subject page </h1>
+ <center> <img src="logo.png" width="500px" height="300px"></center>
+  </div>
+  
 
 
-a:hover , li:hover{
-  color: white;
-}
+
+
+ 
+<table >
+
+<tr>
+<div  style="float:left;color:black;background-color:red;">
+
+<div class="menu">
+<ul>
+ <li><a href="#">  Home</a></li>
+ <li><a href="#">  IT     </a></li>
+  <li><a href="#">   Biology   </a></li> 
+    <li><a href="#">    History   </a></li> 
+	  <li><a href="#">  Contact   </a></li> 
+
+
+</ul>
+</div>
+	  </div>
+</tr>
+ <tr>
+ <th> <center> <img src="logo.png" width="300px" height="300px"></center>
+</th>
+ <th><center> <img src="logo.png" width="300px" height="300px"></center></th>
+ <th><center> <img src="logo.png" width="300px" height="300px"></center></th>
+ </tr>
+ 
+ <tr>
+ <td><h4>Information Technology</h4></td><td><h4>Bilology</h4></td>
+ <td><h4>History</h4></td>
+ </tr>
+ <tr> 
+ <td>My overview</td><td>My overview</td><td>My overview</td>
+</tr>
+ <tr> 
+ <td><button  style="float:right;background-color:red;border:#fffff solid 2px;"> Move</button></td><td><button style="float:right;background-color:red;border:#fffff solid 2px;"> Move</button></td><td><button  style="float:right;background-color:red;border:#fffff solid 2px;"> Move</button></td>
+</tr>
+ 
+ 
+</table>
+
+
+  
+
+
+<div class="footer">
+
+
+<p >  &copy; Hypersion Development   &nbsp; &nbsp; &nbsp; &nbsp;
+  All Rights Reserved. &nbsp; &nbsp; &nbsp; &nbsp;  
+
+ Proudly created by 
+<span style="color:blue" >  Hypersion Development</span> </p>
+<br>
+<br>
+<center>
+<p > last updated  23 May 2016 </p></center>
+
+
+
+
+</footer>
+
+
+  
+</div>
+
+</body>
+</html>
